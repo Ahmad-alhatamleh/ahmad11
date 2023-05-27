@@ -1,0 +1,10 @@
+D:\ooop\ahmad1111\obj\Debug\ahmad1111.csproj.AssemblyReference.cache
+D:\ooop\ahmad1111\obj\Debug\ahmad1111.csproj.SuggestedBindingRedirects.cache
+D:\ooop\ahmad1111\obj\Debug\ahmad1111.Properties.Resources.resources
+D:\ooop\ahmad1111\obj\Debug\ahmad1111.csproj.GenerateResource.cache
+D:\ooop\ahmad1111\obj\Debug\ahmad1111.csproj.CoreCompileInputs.cache
+D:\ooop\ahmad1111\bin\Debug\ahmad1111.exe.config
+D:\ooop\ahmad1111\bin\Debug\ahmad1111.exe
+D:\ooop\ahmad1111\bin\Debug\ahmad1111.pdb
+D:\ooop\ahmad1111\obj\Debug\ahmad1111.exe
+D:\ooop\ahmad1111\obj\Debug\ahmad1111.pdb
